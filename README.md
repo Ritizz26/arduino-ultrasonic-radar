@@ -26,24 +26,24 @@ The visualization includes a semicircular radar grid, distance rings, angular re
 
  Component                     Quantity 
  
- Arduino UNO                          1 
- HC-SR04 Ultrasonic Sensor            1 
- Servo Motor                          1 
- Breadboard                           1 
- Jumper Wires               As required
- Computer                             1 
+ Arduino UNO                          1 <br>
+ HC-SR04 Ultrasonic Sensor            1 <br>
+ Servo Motor                          1 <br>
+ Breadboard                           1 <br>
+ Jumper Wires               As required<br>
+ Computer                             1 <br>
 
 ## Circuit Connections
 
  Component     Arduino Pin 
  
- HC-SR04 Trig  D2          
- HC-SR04 Echo  D3          
- Servo Signal  D10         
- HC-SR04 VCC   5V          
- HC-SR04 GND   GND         
- Servo VCC     5V          
- Servo GND     GND         
+ HC-SR04 Trig  D2          <br>
+ HC-SR04 Echo  D3          <br>
+ Servo Signal  D10         <br>
+ HC-SR04 VCC   5V          <br>
+ HC-SR04 GND   GND         <br>
+ Servo VCC     5V          <br>
+ Servo GND     GND         <br>
 
 ## Working Principle
 
