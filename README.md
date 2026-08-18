@@ -136,7 +136,7 @@ Possible improvements include:
 
 ## Documentation
 
-The complete project documentation, including the theory, circuit design, working procedure, challenges, limitations, and source code, is available in the `Documentation` folder.
+The complete project documentation, including the theory, circuit design, working procedure, challenges, limitations, and source code, is available in the `RadarDocuments.pdf` file.
 
 ## Author
 
